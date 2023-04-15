@@ -1,0 +1,29 @@
+Github Repository Links
+
+AWS EKS Kubernetes - Masterclass
+
+https://github.com/stacksimplify/aws-eks-kubernetes-masterclass
+
+Docker Fundamentals
+
+https://github.com/stacksimplify/docker-fundamentals
+
+Kubernetes Fundamentals
+
+https://github.com/stacksimplify/kubernetes-fundamentals
+
+AWS EKS Cluster - CLI Tools
+
+
+1. aws cli
+2. kubectl
+3. eksctl
+
+awscli : We can control multiple aws services from the command line to automate them through scripts.
+kubectl : We can control kubernates cluster and objects using the kubectl
+eksctl : Its a very powerful tool to managing the cluser in aws eks. 
+	1. eksctl used for creating and deleting cluster on aws eks.
+	2. We can create, autoscale and delete the node groups
+	3. We can create fargate profile in eks cluster. 
+
+
